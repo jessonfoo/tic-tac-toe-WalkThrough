@@ -50,15 +50,19 @@ $on-laptop:        800px;
         "syntax-highlighting"
 ;
 
-
+.row {
+  height: 50px;
+  margin: 5px;
+  display: flex;
+}
 .square {
-border: 1px solid black;
+  border: 1px solid black;
   height: 50px;
   width: 50px;
   text-align: center;
   font-size: 24px;
   display: inline-block;
   font-family: 'open sans';
-  white-space:pre-wrap;
+  white-space:pre;
 }
 
