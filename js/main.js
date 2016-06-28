@@ -1,5 +1,6 @@
 var board = [' ',' ',' ',' ',' ',' ',' ',' ',' '];
 var turn = 'x';
+
 // selector
 var squares = document.querySelectorAll('.square');
 
