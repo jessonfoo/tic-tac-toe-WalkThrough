@@ -1,0 +1,5 @@
+var board = ['','','','','','','','',''];
+var turn = 'x';
+function drawBoard(){
+
+}
